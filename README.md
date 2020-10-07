@@ -1,5 +1,7 @@
 Github
-Comandos para git
+Comandos para git:
+
+
 Testes de versionamento
 $ git init
 
