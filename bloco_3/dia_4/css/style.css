@@ -1,0 +1,23 @@
+.header {
+    background-color:#3714d4;
+
+}
+
+.titulo {
+    padding: 5px 40px 0;
+    text-align: center;
+    color:white;
+}
+
+.menu-principal{
+    background-color: black;
+    padding: 1px;
+    color:white;
+}
+
+li {
+    display: inline;
+    font-style: none;
+    padding: 40px;
+    color:white;
+}
