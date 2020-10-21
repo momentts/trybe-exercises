@@ -19,5 +19,25 @@ li {
     display: inline;
     font-style: none;
     padding: 40px;
-    color:white;
 }
+
+
+p {
+    text-align: auto;
+}
+
+.imagem1 {
+    width: 70%;
+}
+
+.artigos {
+    padding: 15px;
+  }
+  
+.secoes {
+    display: inline-block;
+    width: 30%;
+    margin-right: 10px;
+    padding: 15px;
+  }
+  
